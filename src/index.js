@@ -1,7 +1,7 @@
 import x from './x.js'
 import png from './assets/1.png'
 
-// const div = document.getElementById('app')
+const div = document.getElementById('app')
 // console.log(png)
 // console.log('div')
 // console.log(div)
